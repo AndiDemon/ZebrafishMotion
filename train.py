@@ -43,8 +43,8 @@ def main():
     2. 20220921 -> taken last year September
     """
     EPOCH = 100
-    data_root = Path("/net/nfs2/export/home/andi/Documents/Zebrafish/dataset/20220527/idTracker/")
-    data_root_new = Path("/net/nfs2/export/home/andi/Documents/Zebrafish/dataset/20220921/convert/")
+    data_root = Path("") # directory to dataset
+    data_root_new = Path("") # directory to dataset
 
     # print(TrajectoriesData([
     #         # ((data_root / "old_01_trajectories_nogaps.txt").expanduser(), 1),

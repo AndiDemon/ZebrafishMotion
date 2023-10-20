@@ -136,7 +136,7 @@ class LSTMModel(nn.Module):
 
 def main():
     # data_root = Path("~/workspace/zebrafish/_data/").expanduser()
-    data_root = Path("/net/nfs2/export/dataset/morita/mie-u/zebrafish/20220527/idTracker/")
+    data_root = Path("") # directory to dataset
 
     # print(TrajectoriesData([
     #         # ((data_root / "old_01_trajectories_nogaps.txt").expanduser(), 1),

@@ -44,8 +44,8 @@ def main():
     2. 20220921 -> taken last year September
     """
     EPOCH = 100
-    data_root = "/net/nfs2/export/home/nakata/Documents/dataset/20220921/"
-    # data_root_new = Path("/net/nfs2/export/home/andi/Documents/Zebrafish/dataset/20220921/convert/")
+    data_root = "" # directory to dataset
+    # data_root_new = Path("")
 
     videoDataset = VideoData(300, 100, 100)
 

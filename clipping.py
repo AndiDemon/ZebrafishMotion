@@ -19,7 +19,7 @@ def iter_cap(cap: cv2.VideoCapture):
 
 
 def main():
-    root = Path("/net/nfs2/export/dataset/morita/mie-u/zebrafish/20220527/")
+    root = Path("") # directory to dataset
     path = root / "y1.MTS"
 
     cap = cv2.VideoCapture(str(path))

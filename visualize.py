@@ -138,7 +138,7 @@ def main():
     model = torch.load(model_dirname, map_location=device)
 
     """load data from txt"""
-    data_root = Path("/net/nfs2/export/home/andi/Documents/Zebrafish/dataset/20220527/idTracker/")
+    data_root = Path("") # directory to dataset
     old = data_root / "old_01_trajectories_nogaps.txt"
     young = data_root / "waka_01_trajectories_nogaps.txt"
 
