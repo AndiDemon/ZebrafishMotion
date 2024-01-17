@@ -7,7 +7,7 @@ This repository contains a dataset that is hosted on Google Drive. The dataset c
 ## Usage
 To access and use this dataset, follow these steps:
 
-1. Click on the [Zebrafish Motion Dataset](https://drive.google.com/drive/folders/1UFEQ9HONL9tITFGSF_ZBJtYwoqRUrf7w?usp=share_link) to open the Google Drive folder containing the dataset files.
+1. Click on the [Zebrafish Motion Dataset](https://drive.google.com/drive/folders/1UFEQ9HONL9tITFGSF_ZBJtYwoqRUrf7w?usp=share_link) to open via Google Drive folder and (https://ieee-dataport.org/documents/zebrafish-motion) to open via IEEE-dataport containing the dataset files.
 
 2. Download the dataset files to your local machine or Google Drive account.
 
